@@ -1,0 +1,10 @@
+pandas
+langchain
+langchain-community
+langchain-core
+python-dotenv
+langchain-google-genai
+docx2txt
+langchain-chroma
+chromadb
+gradio
